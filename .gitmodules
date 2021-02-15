@@ -1,0 +1,6 @@
+[submodule "TedOS"]
+	path = TedOS
+	url = ./TedOS
+[submodule "rust_os"]
+	path = rust_os
+	url = ./rust_os
